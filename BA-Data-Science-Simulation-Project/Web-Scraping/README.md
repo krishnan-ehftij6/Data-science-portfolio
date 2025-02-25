@@ -20,7 +20,9 @@ Pandas for data processing and conversion to a structured CSV dataset
 **Data Preprocessing & Exploratory Data Analysis (EDA)**
 The following preprocessing steps were performed:
 ✅ Column Analysis: Understanding the dataset structure and key features
+
 ✅ Date Formatting: Converting Date Flown and Date Published columns into datetime format
+
 ✅ Index Ordering: Sorting the dataset by Date Published for chronological analysis
 
 **Data Visualization & Insights**
