@@ -48,4 +48,4 @@ The key findings and insights have been documented in a blog post: [Read here](y
 - Execute `sentiment_analysis.py` for sentiment classification and predictive modeling.  
 
 ## Contact  
-For any questions or collaboration opportunities, feel free to connect via LinkedIn or check out my blog for more insights.  
+For any questions or collaboration opportunities, feel free to connect via [LinkedIn]([your-medium-blog-link](https://www.linkedin.com/in/krishnan-s-7b8ba4a9/)) or check out my [Blog](aviationdatabykrishnan.medium.com)  for more insights.  
