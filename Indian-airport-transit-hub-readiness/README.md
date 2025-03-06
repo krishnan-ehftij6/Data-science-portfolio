@@ -1,5 +1,5 @@
 
-# Indian Airports as Global Transit Hubs – A Data Science Analysis  
+# Indian Airports as Global Transit Hubs – A Data Science Approach
 
 ## Project Overview  
 This project analyzes passenger reviews to assess whether Indian airports are prepared to compete as global transit hubs. Using web scraping, sentiment analysis, and predictive modeling, the study identifies key strengths and areas for improvement in Indian airports compared to leading international hubs.  
