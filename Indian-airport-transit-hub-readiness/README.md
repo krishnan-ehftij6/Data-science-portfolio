@@ -4,7 +4,7 @@
 ## Project Overview  
 This project analyzes passenger reviews to assess whether Indian airports are prepared to compete as global transit hubs. Using web scraping, sentiment analysis, and predictive modeling, the study identifies key strengths and areas for improvement in Indian airports compared to leading international hubs.  
 
-The key findings and insights have been documented in a blog post: [Read here](your-medium-blog-link)  
+The key findings and insights have been documented in a blog post: [Read here](https://aviationdatabykrishnan.medium.com/are-indian-airports-ready-to-be-transit-hubs-a-data-science-approach-38a58d5ae82f)  
 
 # Project Folder Structure  
 📂 Indian_Airports_Transit_Hubs
