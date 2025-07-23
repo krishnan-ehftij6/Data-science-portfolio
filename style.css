@@ -1,0 +1,55 @@
+/* === BASE THEME === */
+.stApp {
+  background-color: white !important;
+  color: #262730 !important;
+}
+
+/* === TEXT ELEMENTS === */
+body, p, h1, h2, h3, h4, h5, h6,
+.stMarkdown, .stText, .stAlert {
+  color: #262730 !important;
+}
+
+/* === INPUT WIDGETS === */
+.stTextInput input,
+.stNumberInput input,
+.stSelectbox select,
+.stSlider svg,
+.stTextArea textarea,
+.stDateInput input {
+  color: #262730 !important;
+  background-color: white !important;
+}
+
+/* Fix input widget borders */
+[data-baseweb="input"] {
+  background-color: white !important;
+  border-color: #e6e6e6 !important;
+}
+
+/* === METRIC CARDS === */
+.stMetric {
+  background-color: #f0f2f6 !important;
+  border: 1px solid #d6d6d6 !important;
+  color: #262730 !important;
+}
+
+/* === EXPANDERS === */
+.stExpander {
+  background-color: white !important;
+  border: 1px solid #e6e6e6 !important;
+}
+
+/* === BUTTONS === */
+.stButton>button {
+  background-color: #4CAF50 !important;
+  color: white !important;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+}
+
+/* === SPECIAL FIXES === */
+/* Number input spinner visibility */
+input[type=number]::-webkit-inner-spin-button {
+  opacity: 1 !important;
+}
